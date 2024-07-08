@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Zeppelin ignored files
+/ZeppelinRemoteNotebooks/
+codeStyles
+encodings.xml
+vcs.xml
+workspace.xml
+misc.xml
