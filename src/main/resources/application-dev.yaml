@@ -1,0 +1,19 @@
+logging:
+  level:
+    root: info
+
+
+spring:
+  # 数据库url
+  datasource:
+    url: // url
+    # 数据库用户名
+    username: // username
+    # 数据库密码
+    password: // password
+    # 数据库驱动
+    driver-class-name: com.mysql.cj.jdbc.Driver
+rocks:
+  conversation-db: // dir name
+  user-box-db: // dir name
+  message-db: // dir name

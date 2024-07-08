@@ -1,0 +1,9 @@
+server:
+  port: 3300
+spring:
+  application:
+    name: im
+  profiles:
+#    active: @package.environment@
+    active: dev # 如果要本地测试，请打开这个关闭上面的
+#    active: prod
